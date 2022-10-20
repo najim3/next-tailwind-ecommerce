@@ -2,5 +2,5 @@
 
 # Setup:
 
-using: https://tailwindcss.com/docs/guides/nextjs
-publish to github
+1.  using: https://tailwindcss.com/docs/guides/nextjs
+2.  publish to github
